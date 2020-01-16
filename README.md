@@ -13,16 +13,16 @@ Visit the webpage or click [here](https://jakefen.github.io/findaband/). Simply 
 
 ### Built With
 
-HTML
-CSS
-Javascript - Jquery
-Ticket Master API
-Bands in Town API
-TasteDive API
+* HTML
+* CSS
+* Javascript - Jquery
+* Ticket Master API
+* Bands in Town API
+* TasteDive API
 
 ### Contributors
 
-Dylan Trimble
-Jacob Fenwick
-Mirko Maya
-Will Irvin
+* Dylan Trimble
+* Jacob Fenwick
+* Mirko Maya
+* Will Irvin
